@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+*
+{
+    max-width: 100%
+    
+}
+
+nav
+{
+    background-color: #464661;
+    height: 4vw;
+    width: 100vw; 
+    font-family: 'Silkscreen', cursive;
+}
+
+.navbar-brand, .nav-link, .nav-item
+{
+    color: #C89B7B;
+}
+
+a
+{
+    color: #000;
+    text-decoration: none;
+}
+
+#uno
+{
+    background-color: #99B2DD;
+    height: 820.1px;
+    width: 100vw;
+    padding-top: 20px;
+}
+
+#navItems
+{
+    float: right;   
+}
+
+footer
+{
+    background-color: #464661;
+    width: 100vw;
+    height: 3vw;
+}
